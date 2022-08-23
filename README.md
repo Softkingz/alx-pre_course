@@ -1,2 +1,1 @@
-My first readme
-ALX School is so cool
+README file is updated
