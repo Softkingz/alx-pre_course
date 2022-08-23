@@ -1,1 +1,1 @@
-My second readme
+ALX School is amazing
